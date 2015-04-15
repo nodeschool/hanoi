@@ -11,7 +11,7 @@ Nodeschool chapter for Hanoi, Vietnam
 ## Cách tiến hành
 
 * Chọn lấy một workshop đang cần người dịch
-* Fork workshop đó và báo lại để những người khác biết tại: [nhận dịch](https://github.com/nodeschool-vi/readme/issues/1)
+* Fork workshop đó và báo lại để những người khác biết tại: [nhận dịch](https://github.com/nodeschool/hanoi/issues/5)
 * Dịch xong thì tạo một Pull Request
 
 ## Các workshop cơ bản
