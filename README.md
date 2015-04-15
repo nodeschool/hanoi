@@ -10,6 +10,9 @@ Nodeschool chapter for Hanoi, Vietnam
 
 ## Need help? --> [Open an issue](https://github.com/nodeschool/hanoi/issues)
 
+## Events Management
+https://nodeschool-hanoi.doorkeeper.jp/
+
 # Việt hóa tài liệu
 ## Cách tiến hành
 
