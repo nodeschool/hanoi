@@ -36,3 +36,6 @@ Workshop     | Trạng thái           | Người dịch
 Workshop     | Trạng thái           | Người dịch             
 ------------------- | --------------- | -------------  
 Cần người làm cho phần này!!!
+
+## Tài liệu tham khảo
+1. [Cơ bản về node - art of node](https://github.com/maxogden/art-of-node) 
