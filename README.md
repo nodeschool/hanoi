@@ -13,6 +13,11 @@ Nodeschool chapter for Hanoi, Vietnam
 ## Events Management
 https://nodeschool-hanoi.doorkeeper.jp/
 
+# Mục tiêu
+1. Giúp mọi người học JS, Nodejs cũng như các thư viện liên quan dễ dàng hơn
+2. Đóng góp vào mã nguồn mở
+3. Xây dựng cộng đồng lập trình viên
+
 # Việt hóa tài liệu
 ## Cách tiến hành
 
