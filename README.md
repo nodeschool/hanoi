@@ -2,6 +2,8 @@
 
 Nodeschool chapter for Hanoi, Vietnam
 
+Note: Everyone involved with NodeSchool Berlin has to follow our [Code of Conduct](https://github.com/nodeschool/hanoi/blob/master/code_of_conduct.md). You can also find contact info there in case you want to report a violation or need help in general.
+
 ## Join the chat
 [![Join the chat at https://gitter.im/nodeschool/vietnam-chapter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/vietnam-chapter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
