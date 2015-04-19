@@ -9351,6 +9351,10 @@ input::-moz-focus-inner {
   }
 }
 
+.signup-map {
+  margin-top: 50px;
+}
+
 /**
 * Site Footer 
 *****************************************************/
