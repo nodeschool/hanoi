@@ -148,3 +148,8 @@ header .row { z-index: 2; position: relative; }
 .open-data-node {
 	float: right;
 }
+
+#header {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
