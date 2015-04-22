@@ -12,8 +12,13 @@ Note: Everyone involved with NodeSchool Hanoi has to follow our [Code of Conduct
 
 ## Need help? --> [Open an issue](https://github.com/nodeschool/hanoi/issues)
 
-## Events Management
+## Events
+### Group
 https://nodeschool-hanoi.doorkeeper.jp/
+
+### Next
+Sat, 09 May 2015 13:30 - 16:30 / Phòng 1001, toà 17T3, Hoàng Đạo Thúy
+https://nodeschool-hanoi.doorkeeper.jp/events/23898
 
 # Mục tiêu
 1. Giúp mọi người học JS, Nodejs cũng như các thư viện liên quan dễ dàng hơn
