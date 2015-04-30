@@ -40,7 +40,7 @@ Workshop     | Trạng thái           | Người dịch
 [git-it](https://github.com/nodeschool-vi/git-it)  | Đang dịch  |  [@dominhhai](https://github.com/dominhhai)
 [how-to-npm](https://github.com/nodeschool-vi/how-to-npm)  | Cần người  |  Cần người dịch
 [stream-adventure](https://github.com/nodeschool-vi/stream-adventure)  | Cần người  |  Cần người dịch
-[learnyounode](https://github.com/dominhhai/learnyounode)  | Kiểm tra  |  [@dominhhai](https://github.com/dominhhai)
+[learnyounode](https://github.com/dominhhai/learnyounode)  | Hoàn thành  |  [@dominhhai](https://github.com/dominhhai)
 [workshopper-exercise](https://github.com/dominhhai/workshopper-exercise)  | Hoàn thành  |  [@dominhhai](https://github.com/dominhhai)
 [workshopper](https://github.com/dominhhai/workshopper)  | Hoàn thành  |  [@dominhhai](https://github.com/dominhhai)
 
