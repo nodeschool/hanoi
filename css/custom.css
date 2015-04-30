@@ -153,3 +153,8 @@ header .row { z-index: 2; position: relative; }
   margin-top: 80px;
   margin-bottom: 80px;
 }
+
+.logo img {
+  vertical-align: middle;
+  height: 100px;
+}
