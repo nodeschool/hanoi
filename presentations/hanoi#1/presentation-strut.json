@@ -1,0 +1,466 @@
+{
+  "slides": [
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 1.02,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "markdown": "---\n---\n## Welcome\n  \n  \n  .\n  \n### Hanoi #1 NodeSchool",
+      "x": 179,
+      "y": 274
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 85,
+          "y": 206,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Lớp thực hành nguồn mở dạy các <br>kỹ năng lập trình phần mềm nền web.<br></font>",
+          "size": 46,
+          "selected": false,
+          "skewX": 0,
+          "rotate": 0
+        },
+        {
+          "TextBox": {},
+          "x": 86,
+          "y": 392,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Bạn có thể tự học các bài thực hành<br>này&nbsp;ở nhà hoặc đến các&nbsp;lớp học của<br>NodeSchool<br></font>",
+          "size": 40,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -0.35,
+      "rotateY": 1.21,
+      "rotateZ": -0.23,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "markdown": "---\n---\n## NodeSchool là gì\n\n",
+      "x": 175,
+      "y": 445
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 221,
+          "y": 195,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "https://nodejs.org/download/<br>",
+          "size": 45,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 82,
+          "y": 271,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">Nền tảng thực thi JavaScript xây dựng&nbsp;</span><br></li></ul>trên V8<br>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 415,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"font-family: Lato; line-height: normal;\">Mô hình event-driven, non-blocking IO</span><br></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 499,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"line-height: normal;\">Quản lý gói với npm (Node Package&nbsp;</span><br></li></ul>Manager)<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "markdown": "---\n---\n##Nodejs là gì\n\n",
+      "x": 422,
+      "y": 318
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 370,
+          "y": 184,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 38,
+          "text": "goo.gl/7vpOJw",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/5B7LTAG.png",
+          "type": "Image",
+          "x": -1,
+          "y": 285,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "markdown": "---\n---\n##Which Technologies Do Startups Use?\n"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 130,
+          "y": 259,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><font color=\"#712f2f\">Big data</font></div>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 462,
+          "y": 259,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\"><font color=\"#712f2f\">Blog</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 745,
+          "y": 259,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#712f2f\">Game</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 154,
+          "y": 480,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#712f2f\">Service</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 572,
+          "y": 479,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#712f2f\">ECommerce</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/my05BNz.png",
+          "type": "Image",
+          "x": 102,
+          "y": 337,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 359,
+          "y": 332,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Abril Fatface, cursive\">Medium</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 463,
+          "y": 391,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">ghost</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 271,
+          "y": 558,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">UBER</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 92,
+          "y": 559,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">PayPal</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 610,
+          "y": 566,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">Walmart&nbsp;</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/JTiZl8i.png",
+          "type": "Image",
+          "x": 716,
+          "y": 330,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/wSvJVXu.png",
+          "type": "Image",
+          "x": 809,
+          "y": 396,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": -1000,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "markdown": "---\n---\n##Các công ty nào đang dùng nodejs",
+      "x": 659,
+      "y": 228
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 42,
+          "y": 297,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Các học viên hoàn thành các workshop<br>&nbsp;trong khuôn khổ chương trình với sự giúp đỡ<br>&nbsp;của các mentor&nbsp;</font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 487,
+          "y": 75,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\"><b>?</b></font>",
+          "selected": false,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "markdown": "---\n---\n##N.dung cua ch.trình\n\n",
+      "x": 901,
+      "y": 123
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "markdown": "---\n---\n\n##G.th các thành viên mentor\n",
+      "x": 911,
+      "y": 293
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 600,
+          "y": 138,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\">.</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": true,
+      "active": true,
+      "markdown": "---\n---\n##Các bài tâp",
+      "x": 419,
+      "y": 495
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 600,
+        "y": 138,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font face=\"Lato\">.</font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 7,
+    "selected": true,
+    "active": true,
+    "markdown": "---\n---\n##Các bài tâp",
+    "x": 419,
+    "y": 495
+  },
+  "fileName": "presentation-unnamed",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 543,
+  "overviewY": 309
+}
