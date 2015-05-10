@@ -20,34 +20,5 @@ https://nodeschool-hanoi.doorkeeper.jp/
 Sat, 09 May 2015 13:30 - 16:30 / Phòng 1001, toà 17T3, Hoàng Đạo Thúy
 https://nodeschool-hanoi.doorkeeper.jp/events/23898
 
-# Mục tiêu
-1. Giúp mọi người học JS, Nodejs cũng như các thư viện liên quan dễ dàng hơn
-2. Đóng góp vào mã nguồn mở
-3. Xây dựng cộng đồng lập trình viên
-
-# Việt hóa tài liệu
-## Cách tiến hành
-
-* Chọn lấy một workshop đang cần người dịch
-* Fork workshop đó và báo lại để những người khác biết tại: [nhận dịch](https://github.com/nodeschool/hanoi/issues/5)
-* Dịch xong thì tạo một Pull Request
-
-## Các workshop cơ bản
-
-Workshop     | Trạng thái           | Người dịch             
-------------------- | --------------- | -------------  
-[javascripting](https://github.com/NgaNguyenDuy/javascripting-vi)  | Đang dịch  |  [@NgaNguyenDuy](https://github.com/NgaNguyenDuy)
-[git-it](https://github.com/nodeschool-vi/git-it)  | Đang dịch  |  [@dominhhai](https://github.com/dominhhai)
-[how-to-npm](https://github.com/nodeschool-vi/how-to-npm)  | Cần người  |  Cần người dịch
-[stream-adventure](https://github.com/nodeschool-vi/stream-adventure)  | Cần người  |  Cần người dịch
-[learnyounode](https://github.com/dominhhai/learnyounode)  | Hoàn thành  |  [@dominhhai](https://github.com/dominhhai)
-[workshopper-exercise](https://github.com/dominhhai/workshopper-exercise)  | Hoàn thành  |  [@dominhhai](https://github.com/dominhhai)
-[workshopper](https://github.com/dominhhai/workshopper)  | Hoàn thành  |  [@dominhhai](https://github.com/dominhhai)
-
-## Các workshop nâng cao
-Workshop     | Trạng thái           | Người dịch             
-------------------- | --------------- | -------------  
-Cần người làm cho phần này!!!
-
-## Tài liệu tham khảo
-1. [Cơ bản về node - art of node](https://github.com/maxogden/art-of-node) 
+### Pass
+[List here](https://github.com/nodeschool/hanoi/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+label%3Apast_event)
