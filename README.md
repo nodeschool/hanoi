@@ -21,4 +21,4 @@ Sat, 09 May 2015 13:30 - 16:30 / Phòng 1001, toà 17T3, Hoàng Đạo Thúy
 https://nodeschool-hanoi.doorkeeper.jp/events/23898
 
 ### Pass
-[List here](https://github.com/nodeschool/hanoi/wiki#danh-s%C3%A1ch-c%C3%A1c-s%E1%BB%B1-ki%E1%BB%87n-%C4%91%C3%A3-di%E1%BB%85n-ra)
+[List here](https://github.com/nodeschool/hanoi/wiki#c%C3%A1c-s%E1%BB%B1-ki%E1%BB%87n-%C4%91%C3%A3-di%E1%BB%85n-ra)
