@@ -17,8 +17,8 @@ Note: Everyone involved with NodeSchool Hanoi has to follow our [Code of Conduct
 https://nodeschool-hanoi.doorkeeper.jp/
 
 ### Next
-Sat, 09 May 2015 13:30 - 16:30 / Phòng 1001, toà 17T3, Hoàng Đạo Thúy
-https://nodeschool-hanoi.doorkeeper.jp/events/23898
+Sat, 20 June 2015 13:30 - 17:00 / Codelovers Vietnam - 4F, No.1 - 120 Lane, Truong Chinh street, Dong Da district, Hanoi
+https://nodeschool-hanoi.doorkeeper.jp/events/25513
 
 ### Pass
 [List here](https://github.com/nodeschool/hanoi/wiki#c%C3%A1c-s%E1%BB%B1-ki%E1%BB%87n-%C4%91%C3%A3-di%E1%BB%85n-ra)
