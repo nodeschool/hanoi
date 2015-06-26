@@ -22,3 +22,7 @@ https://nodeschool-hanoi.doorkeeper.jp/events/25513
 
 ### Pass
 [List here](https://github.com/nodeschool/hanoi/wiki#c%C3%A1c-s%E1%BB%B1-ki%E1%BB%87n-%C4%91%C3%A3-di%E1%BB%85n-ra)
+
+### Facebook
+ * [Group](https://www.facebook.com/groups/1042830465728149)
+ * Tag: #NodeSchool
