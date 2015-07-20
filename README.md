@@ -25,4 +25,3 @@ https://nodeschool-hanoi.doorkeeper.jp/events/25513
 
 ### Facebook
  * [Group](https://www.facebook.com/groups/1042830465728149)
- * Tag: #NodeSchool
